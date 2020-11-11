@@ -3,6 +3,22 @@
 **Description**
 Leveraging Java 8, create an application that simulates simple banking transactions
 
+What did i do?
+I completed all requirements and I also added some new features. I hope you will love them.
+>> Password hashed(BCrypt)
+>> 38 different test scenarios
+>> logged every method
+>> 5 different SQL Query Functions/Procedure
+>> You can see the last login time on the console like a real bank.
+>> You can top 5 tech companies stock market prices using JSON
+(FAANG: Facebook, Apple, Amazon, Netflix, Google) You can see these prices on the console.
+>> You can fetch daily bases any Stock market(Ford Motor, Coca Cola, Verizon .... all of them)
+>> You can get local weather data from internet. You can see on the console.
+>> I created 10 different custom exceptions.
+>> I get local weather data(Open Weather API), stock market(AlphaVantage and TwelveData API)
+
+
+
 **Requirements**
 *	Build the application using Java 8
 *	All interaction with the user should be done through the console using the `Scanner` class
